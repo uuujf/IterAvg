@@ -1,0 +1,21 @@
+## logs
+*.pth.tar
+*logs/
+*log/
+
+*.err
+*.out
+*.sh
+*test/
+*.npz
+*.npy
+*.pdf
+
+## misc
+*.vscode/
+*.idea/
+*.ropeproject/
+*__pycache__/
+*.swp
+*.DS_Store
+
