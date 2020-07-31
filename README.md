@@ -1,4 +1,4 @@
-# Obtain Adjustable Regularization for Free by Iterate Averaging
+# Obtain Adjustable Regularization for Free via Iterate Averaging
 
 A PyTorch implementation for the experiments in the paper:
 
